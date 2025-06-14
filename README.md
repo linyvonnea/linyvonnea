@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Yvonne 🍄
 
-<!--
-**linyvonnea/linyvonnea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student at UP Visayas (Class of 2026) with interests in **game development**, **software engineering**, **data science**, and **bioinformatics**.
 
-Here are some ideas to get you started:
+### 🔧 Skills
+- **Languages:** Python, C, C#, Java, JavaScript, PHP, Swift, R
+- **Web Dev:** React, Next.js, Tailwind, Firebase, MySQL
+- **Game Dev:** Unity (2D, C#)
+- **Tools:** Git, GitHub, Figma
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 GitHub Stats
+![Yvonne's GitHub Stats](https://github-readme-stats.vercel.app/api?username=linyvonnea&show_icons=true&theme=default)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=linyvonnea&layout=compact&theme=default)
+
+### 📫 Contact
+- 📧 yalin@up.edu.ph
+- 🌐 [github.com/linyvonnea](https://github.com/linyvonnea)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/linyvonnea)

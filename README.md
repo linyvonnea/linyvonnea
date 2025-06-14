@@ -11,11 +11,11 @@ I'm a Computer Science student at UP Visayas (Class of 2026) with interests in *
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=linyvonnea&show_icons=true&theme=default" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=linyvonnea&layout=compact&theme=default" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=linyvonnea&show_icons=true&theme=tokyonight&hide=stars,issues" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=linyvonnea&layout=compact&theme=tokyonight" width="48%" />
 </div>
 
 ### 📫 Contact
-- 📧 yalin@up.edu.ph
+- 📧 linyvonnea@gmail.com
 - 🌐 [github.com/linyvonnea](https://github.com/linyvonnea)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/linyvonnea)

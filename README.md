@@ -9,8 +9,11 @@ I'm a Computer Science student at UP Visayas (Class of 2026) with interests in *
 - **Tools:** Git, GitHub, Figma
 
 ### 📊 GitHub Stats
-![Yvonne's GitHub Stats](https://github-readme-stats.vercel.app/api?username=linyvonnea&show_icons=true&theme=default)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=linyvonnea&layout=compact&theme=default)
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=linyvonnea&show_icons=true&theme=default" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=linyvonnea&layout=compact&theme=default" width="48%" />
+</div>
 
 ### 📫 Contact
 - 📧 yalin@up.edu.ph

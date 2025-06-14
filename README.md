@@ -11,8 +11,8 @@ I'm a Computer Science student at UP Visayas (Class of 2026) with interests in *
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=linyvonnea&show_icons=true&theme=tokyonight&hide=stars,issues" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=linyvonnea&layout=compact&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=linyvonnea&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=linyvonnea&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </div>
 
 ### 📫 Contact

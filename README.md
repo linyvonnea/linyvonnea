@@ -1,6 +1,6 @@
 # Hi, I'm Yvonne 🍄
 
-I'm a Computer Science student at UP Visayas (Class of 2026) with interests in **game development**, **software engineering**, **machine learning**, and **bioinformatics**.
+I'm a Computer Science graduate (cum laude) from University of the Philippines Visayas with interests in **data science**, **software engineering**, and **machine learning**.
 
 ### 🔧 Skills
 - **Languages:** Python, C, C#, Java, JavaScript, PHP, Swift, R
